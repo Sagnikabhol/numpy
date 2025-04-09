@@ -1,2 +1,2 @@
 # numpy
-its testing pi=urpose
+its testing purpose
